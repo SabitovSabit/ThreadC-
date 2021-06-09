@@ -1,0 +1,13 @@
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\bin\Debug\netcoreapp3.1\Thread_USE.exe
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\bin\Debug\netcoreapp3.1\Thread_USE.deps.json
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\bin\Debug\netcoreapp3.1\Thread_USE.runtimeconfig.json
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\bin\Debug\netcoreapp3.1\Thread_USE.runtimeconfig.dev.json
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\bin\Debug\netcoreapp3.1\Thread_USE.dll
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\bin\Debug\netcoreapp3.1\Thread_USE.pdb
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\obj\Debug\netcoreapp3.1\Thread_USE.csprojAssemblyReference.cache
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\obj\Debug\netcoreapp3.1\Thread_USE.AssemblyInfoInputs.cache
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\obj\Debug\netcoreapp3.1\Thread_USE.AssemblyInfo.cs
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\obj\Debug\netcoreapp3.1\Thread_USE.csproj.CoreCompileInputs.cache
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\obj\Debug\netcoreapp3.1\Thread_USE.dll
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\obj\Debug\netcoreapp3.1\Thread_USE.pdb
+C:\Users\Sabitov\source\repos\Thread_CPU\Thread_USE\obj\Debug\netcoreapp3.1\Thread_USE.genruntimeconfig.cache
